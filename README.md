@@ -53,8 +53,10 @@ Zomato’s sales data demonstrates **exceptional operational reliability and con
 [Zomato Sales Analysis – Tableau Public](https://public.tableau.com/app/profile/eunice.mukangarambe/viz/zomatoanalysis_17562908135280/Dashboard2)
 
 📸 **Preview Screenshot:**  
-[Dashboard Preview]((<img width="793" height="450" alt="Screenshots zomato dashboard" src="https://github.com/user-attachments/assets/e7bbc2a5-aaaa-4def-b676-e56364c56fe7" /)
+[Dashboard Preview](https://github.com/eunicemukarage1/Zomato-sales-analysis/blob/main/Screenshots%20zomato%20dashboard.png)
  
+<img width="611" height="408" alt="Screenshot preview" src="https://github.com/user-attachments/assets/484246a9-1d1e-4ff1-8d0a-c6f1902409ee" />
+
   
 
 ---
@@ -86,8 +88,10 @@ Understanding **customer demand and operational performance** in Zomato’s food
 5. **Validation** – Ensure KPI totals match across sheets.  
 
 ### Scope & Exclusions  
-- Focus is on **customer demand patterns and partner performance**.  
+- Focus is on **sales performance**.  
 - Product-level details (e.g., menu items, pricing strategy) are out of scope.  
 - No predictive modeling; only descriptive analytics provided.  
-
+### 🛠 Tools Used
+Tableau Public → Dashboard creation
+### [Dataset](https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/BIA/Dataset/Zomato%20data.zip)
 ---
