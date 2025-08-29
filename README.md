@@ -53,7 +53,8 @@ Zomato’s sales data demonstrates **exceptional operational reliability and con
 [Zomato Sales Analysis – Tableau Public](https://public.tableau.com/app/profile/eunice.mukangarambe/viz/zomatoanalysis_17562908135280/Dashboard2)
 
 📸 **Preview Screenshot:**  
-[Dashboard Preview](https://github.com/eunicemukarage1/Zomato-sales-analysis/blob/main/Screenshots%20zomato%20dashboard.png)
+[Dashboard Preview](<img width="611" height="408" alt="Screenshot-preview" src="https://github.com/user-attachments/assets/35511683-e6ee-4451-a076-15791fca1fb4" />
+)
  
 <img width="611" height="408" alt="Screenshot preview" src="https://github.com/user-attachments/assets/484246a9-1d1e-4ff1-8d0a-c6f1902409ee" />
 
