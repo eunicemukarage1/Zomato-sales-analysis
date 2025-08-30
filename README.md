@@ -68,18 +68,18 @@ Zomato’s sales data demonstrates **exceptional operational reliability and con
 Understanding **customer demand and operational performance** in Zomato’s food delivery business.  
 
 ### Research Questions  
-1. How reliable is Zomato’s order fulfillment process?  
-2. What are the sales trends over time (growth, peak, decline)?  
-3. Do sales vary by weekday/weekend, and why is there a “Weekend Paradox”?  
-4. Which cuisines and cities generate the most revenue?  
-5. How do restaurant ratings correlate with revenue?  
-6. Where should Zomato focus to increase both customer satisfaction and partner performance?  
+1. What does Zomato’s 99.999% completion rate indicate about their operational perfomance?  
+2. What are the sales patterns emerge across different time periods, cuisine type and cities?  
+3. Do sales vary by weekday/weekend, and why is there a “Weekend Paradox”?   
+4. How do restaurant ratings correlate with actual revenue perfomance?  
+5. Where should Zomato focus to increase both customer satisfaction and partner performance?
+   
 
 ### Hypotheses  
 - Orders are completed at a very high success rate (>99%).  
-- Sales peak towards the end of the workweek (Friday celebrations).  
-- Despite high ratings, some restaurants underperform in sales due to pricing, location, or limited visibility.  
-- Certain cuisines dominate revenue contribution (e.g., sweets, tandoor, biryani).  
+- Sales show distinct weekly patterns with weekdays outperfoming weekends .  
+- Restaurants  rating and revenue will not show a perfect  positive correlation some high-rated restaurant may have lower sales volumes.  
+- Certain cuisines type dominate revenue contribution (e.g., sweets, tandoor, biryani).  
 
 ### Data Preparation Steps  
 1. **Cleaning** – Remove null/duplicate records, validate order counts.  
@@ -88,11 +88,15 @@ Understanding **customer demand and operational performance** in Zomato’s food
 4. **Aggregation** – Summarize revenue by date, cuisine, city, and restaurant.  
 5. **Validation** – Ensure KPI totals match across sheets.  
 
-### Scope & Exclusions  
-- Focus is on **sales performance**.  
-- Product-level details (e.g., menu items, pricing strategy) are out of scope.  
-- No predictive modeling; only descriptive analytics provided.  
+### Metholodogy
+📊 Analysis Approach
+- Descriptive analysis of existing sales data
+- Pattern identification across time, location, and cuisine dimensions  
+- Revenue-rating correlation analysis
+- Trend analysis for growth and decline periods
+- Limitations: Analysis is based on available sales data only; external factors affecting completion rates are not included in the dataset
+  
 ### 🛠 Tools Used
 Tableau Public → Dashboard creation
-### [Dataset](https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/BIA/Dataset/Zomato%20data.zip)
+### ![Dataset](https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/BIA/Dataset/Zomato%20data.zip)
 ---
